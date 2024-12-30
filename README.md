@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/bhimsen_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/bhimsen_joshi?logo=twitter&style=for-the-badge" alt="bhimsen_joshi" /></a> </p>
 
-- 🔭 I’m currently working as **CNC Machine Operator** 
+- 🔭 I’m currently working as **CNC Machine Operator** at **Linamar Performance Centre**
 
-- 🌱 I’m currently learning **Python Programming, IT Support**
+- 🌱 I’m currently learning **Python Programming, Google IT Support**
 
 - 👨‍💻 All of my projects are available at [bstha@projects](bstha@projects)
 
