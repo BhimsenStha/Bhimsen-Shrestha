@@ -1,4 +1,4 @@
-<img align="justify" alt="Coding" src="Screenshot 2024-12-29 234900.png">
+<img align="justify" alt="Coding" src="Banner.png">
 <h1 align="center">Hi 👋, I'm Bhimsen Shrestha</h1>
 <h3 align="center">A Mechanical Engineer with a strong affinity for Data Science.</h3>
 
