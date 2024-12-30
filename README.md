@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhimsen Shrestha</h1>
 <h3 align="center">A Mechanical Engineer with a strong affinity for Data Science.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/dxioK">
+<img align="right" alt="Coding" style="position: relative; top: 30px; left: 40px; width: 350px;" src="https://shorturl.at/dxioK">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhimsenshrestha187&label=Profile%20views&color=0e75b6&style=flat" alt="bhimsenshrestha187" /> </p>
@@ -19,7 +19,7 @@
 
 - 📫 Reach out to me at **bhimsen187@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [My CV](MyCV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
