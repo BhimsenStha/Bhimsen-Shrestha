@@ -1,20 +1,21 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bhimsen Shrestha</h1>
-<h3 align="center">A Graduate Mechanical Engineer with a profound interest in harnessing Data Science to engineering innovative solutions.</h3>
+<h3 align="center">A Mechanical Engineer with a strong affinity for Data Science.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="500" src="https://shorturl.at/BXq7y">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhimsenshrestha187&label=Profile%20views&color=0e75b6&style=flat" alt="bhimsenshrestha187" /> </p>
 
 <p align="left"> <a href="https://twitter.com/bhimsen_joshi" target="blank"><img src="https://img.shields.io/twitter/follow/bhimsen_joshi?logo=twitter&style=for-the-badge" alt="bhimsen_joshi" /></a> </p>
 
-- 🔭 I’m currently working as [Machine Operator](Linamar Performance Centre)
+- 🔭 I’m currently working as **CNC Machine Operator** 
 
-- 🌱 I’m currently learning **Python for Data Science, Google IT Support**
+- 🌱 I’m currently learning **Python Programming, IT Support**
 
 - 👨‍💻 All of my projects are available at [bstha@projects](bstha@projects)
 
-- 💬 Ask me about **Mechanical Engineering, Data Science, SOLIDWORKS, CATIA, ANSYS**
+- 💬 Ask me about **Mechanical Design and Data Science**
 
 - 📫 Reach out to me at **bhimsen187@gmail.com**
 
