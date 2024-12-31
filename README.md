@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bhimsen Shrestha</h1>
 <h3 align="center">A Mechanical Engineer with a strong affinity for Data Science.</h3>
 
-<img align="right" alt="Coding" style="position: relative; top: 30px; left: 40px; width: 350px;" src="https://shorturl.at/dxioK">
+<img align="right" alt="Coding" style="position: relative; top: 30px; left: 40px; width: 350px;" src="rb_2206.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhimsenshrestha187&label=Profile%20views&color=0e75b6&style=flat" alt="bhimsenshrestha187" /> </p>
